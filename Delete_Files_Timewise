@@ -1,0 +1,7 @@
+﻿#Define Period and path Variable
+
+$Period= (get-date).AddDays(-7)
+$Path="C:\Users\admin\Desktop\section1\"
+
+Get-ChildItem $Path -Attributes !Directory -Recurse -Force | Where-Object {$_.Name -like "*.txt" -and $_.LastWriteTime -lt $Period } | Remove-Item -Force 
+

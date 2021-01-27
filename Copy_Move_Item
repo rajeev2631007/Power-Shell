@@ -1,0 +1,11 @@
+﻿get-help copy-item -Examples
+
+
+Set-Location C:\Users\admin\Desktop\section1\
+
+Copy-Item "C:\Users\admin\Desktop\section1\*.txt" -Destination "C:\Users\admin\Desktop\section1\Test_Folder1"
+
+Copy-Item "C:\Users\admin\Desktop\section1\Newfile.txt" -Destination "C:\Users\admin\Desktop\section1\Test_Folder1\Renamefile.txt"
+
+
+Move-Item "C:\Users\admin\Desktop\section1\*.txt" -Destination "C:\Users\admin\Desktop\section1\Test_Folder1" -Force
