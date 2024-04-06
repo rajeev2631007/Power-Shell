@@ -24,6 +24,9 @@ PowerShell Training
 
 https://www.youtube.com/playlist?list=PLmBNQq8ckUwsGrr1JAC8Iv14usVXMBLtp
 
+All things Microsoft PowerShell
+https://youtube.com/playlist?list=PLCGGtLsUjhm2k22nFHHdupAK0hSNZVfXi&si=W1qgGYTDZ6AjAcd3
+
 Getting Started with Azure PowerShell
 https://www.youtube.com/watch?v=RQMdJ-9-lxY
 
@@ -63,5 +66,11 @@ https://www.youtube.com/watch?v=bzFS8iZhzqM
 
 Automating Login to Microsoft 365 PowerShell without password
 https://www.youtube.com/watch?v=pq-KwyBANCk
+https://www.youtube.com/watch?v=MVZAbQEkegU
 
+Automate Active Directory with PowerShell
+https://youtube.com/playlist?list=PLnK11SQMNnE4_mlkNufhyI4n-zOcqKqfr&si=vgIWBkfrpFbRiT5U
 
+https://youtu.be/9oiEOYFe6PI?si=lEqZapgxWD8hRFsI
+PowerShell and Active Directory Essentials
+https://www.youtube.com/watch?v=-zDXTLiX_wk
