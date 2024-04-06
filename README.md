@@ -55,7 +55,13 @@ How to Add Subnets to Existing Azure vNet Using PowerShell
 https://youtu.be/DRi6AfpRW-s?si=Kn8FUPFd5L3GFBW2
 
 
+How to save login credentials to a file using PowerShell
+https://www.youtube.com/watch?v=cjOVholp0II
 
+How to Get Credentials from Windows Credential Manager to run UiPath Automations
+https://www.youtube.com/watch?v=bzFS8iZhzqM
 
+Automating Login to Microsoft 365 PowerShell without password
+https://www.youtube.com/watch?v=pq-KwyBANCk
 
 
