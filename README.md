@@ -1,4 +1,7 @@
 # Power-Shell
+Azure PowerShell Documentation
+https://learn.microsoft.com/en-us/powershell/azure/?view=azps-11.4.0
+
 Install Azure PowerShell on Windows
 https://learn.microsoft.com/en-us/powershell/azure/install-azps-windows?view=azps-11.4.0&tabs=powershell&pivots=windows-psgallery
 
