@@ -7,3 +7,7 @@ https://youtu.be/VFuobJbbDtU?si=UoZtyn90s413yWMF
 
 Top 10 PowerShell Commands for Beginners | Realistic Examples with Explanations!
 https://youtu.be/MP_UR5iWfZQ?si=Z2Ck1MvGw3N5NjKI
+
+PowerShell Training
+
+https://www.youtube.com/playlist?list=PLmBNQq8ckUwsGrr1JAC8Iv14usVXMBLtp
