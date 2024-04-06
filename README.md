@@ -74,3 +74,6 @@ https://youtube.com/playlist?list=PLnK11SQMNnE4_mlkNufhyI4n-zOcqKqfr&si=vgIWBkfr
 https://youtu.be/9oiEOYFe6PI?si=lEqZapgxWD8hRFsI
 PowerShell and Active Directory Essentials
 https://www.youtube.com/watch?v=-zDXTLiX_wk
+
+Powershell - Systems Administration - PC-Addicts
+https://www.youtube.com/playlist?list=PLWAHiM_D-qJ6jISiSETetOgWpJh6u6MeW
